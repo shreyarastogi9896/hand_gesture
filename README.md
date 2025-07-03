@@ -1,1 +1,1 @@
-Hand Geature Code Files
+Hand Gesture Code Files
